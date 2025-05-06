@@ -443,5 +443,4 @@
 //   return `${count}, ${sum}`;
 // }
 
-// // Misol
 // console.log(getDividersNumberAndSum(12));
